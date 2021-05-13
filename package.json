@@ -1,0 +1,33 @@
+{
+  "name": "custpom-hooks-hdjesus",
+  "version": "1.0.0",
+  "description": "Custom Hooks for my daily use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hdmjesus/custom-Hooks-hdjesus.git"
+  },
+  "keywords": [
+    "Hooks",
+    "React",
+    "useForm",
+    "useFetch"
+  ],
+  "author": "hdjesus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdmjesus/custom-Hooks-hdjesus/issues"
+  },
+  "homepage": "https://github.com/hdmjesus/custom-Hooks-hdjesus#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react-hooks": "^5.1.2",
+    "jest": "^26.6.3"
+  }
+}
