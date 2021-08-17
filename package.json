@@ -14,7 +14,8 @@
     "Hooks",
     "React",
     "useForm",
-    "useFetch"
+    "useFetch",
+    "useButtonsPagination"
   ],
   "author": "hdjesus",
   "license": "MIT",
